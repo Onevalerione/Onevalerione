@@ -1,0 +1,5 @@
+{
+  "host": "bd-ip",
+  "port": 5432,
+  "database": "sigmabd"
+}
